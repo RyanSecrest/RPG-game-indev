@@ -1,0 +1,20 @@
+[
+null,
+{"id":1,"expanded":false,"name":"World Map 2","order":6,"parentId":0,"scrollX":4167.2,"scrollY":3599.2},
+null,
+null,
+null,
+null,
+{"id":6,"expanded":true,"name":"World Map ","order":1,"parentId":0,"scrollX":6185.777777777777,"scrollY":2838.222222222222},
+{"id":7,"expanded":false,"name":"StoneWallCityPlains","order":2,"parentId":6,"scrollX":720.8888888888889,"scrollY":793.7777777777778},
+{"id":8,"expanded":true,"name":"Overworld","order":3,"parentId":0,"scrollX":1092.8,"scrollY":3388.8},
+{"id":9,"expanded":false,"name":"CastleThrone","order":4,"parentId":8,"scrollX":720.8888888888889,"scrollY":498.6666666666667},
+{"id":10,"expanded":false,"name":"Mine","order":5,"parentId":8,"scrollX":810.6666666666666,"scrollY":456.8888888888889},
+{"id":11,"expanded":true,"name":"Forest01","order":7,"parentId":1,"scrollX":648.8,"scrollY":365.6},
+{"id":12,"expanded":false,"name":"Forest02","order":8,"parentId":11,"scrollX":648.8,"scrollY":406.4},
+{"id":13,"expanded":false,"name":"PortTown","order":13,"parentId":1,"scrollX":648.8,"scrollY":397.6},
+{"id":14,"expanded":false,"name":"Forest03","order":12,"parentId":11,"scrollX":648.8,"scrollY":365.6},
+{"id":15,"expanded":false,"name":"Forest04","order":11,"parentId":11,"scrollX":648.8,"scrollY":365.6},
+{"id":16,"expanded":false,"name":"Forest05","order":10,"parentId":11,"scrollX":648.8,"scrollY":457.6},
+{"id":17,"expanded":false,"name":"Forest06","order":9,"parentId":11,"scrollX":648.8,"scrollY":406.4}
+]

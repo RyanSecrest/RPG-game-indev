@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"battlerName":"Prince","characterIndex":6,"characterName":"Wesnoth","classId":6,"equips":[2,0,0,3,0],"faceIndex":6,"faceName":"Wesnoth","traits":[],"initialLevel":1,"maxLevel":50,"name":"Prince","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"BlondeGirl4","characterIndex":3,"characterName":"BlondeGirl","classId":3,"equips":[7,0,0,2,0],"faceIndex":3,"faceName":"BlondeGirl","traits":[],"initialLevel":1,"maxLevel":99,"name":"Princess","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":7,"equips":[37,0,65,5,0],"faceIndex":5,"faceName":"Wesnoth","traits":[],"initialLevel":1,"maxLevel":99,"name":"Maltra","nickname":"Mal","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":5,"equips":[31,0,0,2,0],"faceIndex":7,"faceName":"Wesnoth","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cheeko","nickname":"Cheo","note":"","profile":""},
+{"id":5,"battlerName":"Sithia","characterIndex":0,"characterName":"Sithia","classId":7,"equips":[37,0,0,4,0],"faceIndex":1,"faceName":"Sithia","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sithia","nickname":"Sia","note":"","profile":""},
+{"id":6,"battlerName":"Kaelthar","characterIndex":4,"characterName":"Wesnoth","classId":8,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Wesnoth","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kaelthar","nickname":"The Sand Serpant","note":"","profile":""},
+{"id":7,"battlerName":"Lisa","characterIndex":0,"characterName":"Lisa","classId":1,"equips":[2,0,54,9,0],"faceIndex":0,"faceName":"Lisa","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lisa","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"BlondeGirl6","characterIndex":5,"characterName":"BlondeGirl","classId":2,"equips":[8,0,66,20,0],"faceIndex":5,"faceName":"BlondeGirl","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sandra","nickname":"Sara","note":"","profile":""},
+{"id":9,"battlerName":"Cedric","characterIndex":0,"characterName":"Cedric","classId":4,"equips":[1,0,0,8,0],"faceIndex":0,"faceName":"Cedric","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sir Cedric Greyhawk","nickname":"Greyhawk","note":"","profile":""},
+{"id":10,"battlerName":"Elva","characterIndex":0,"characterName":"Elva","classId":3,"equips":[7,0,0,20,0],"faceIndex":0,"faceName":"Elva","traits":[{"code":43,"dataId":52,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Elva ","nickname":"El","note":"","profile":""},
+{"id":11,"battlerName":"BlondeGirl","characterIndex":0,"characterName":"BlondeGirl","classId":7,"equips":[37,27,0,2,0],"faceIndex":0,"faceName":"BlondeGirl","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sylphiette","nickname":"Sylphie","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":15,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":16,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":17,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":18,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":19,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":20,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
