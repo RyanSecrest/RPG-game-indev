@@ -20,5 +20,5 @@ null,
 {"id":18,"expanded":true,"name":"House1","order":17,"parentId":13,"scrollX":720.8888888888889,"scrollY":406.22222222222223},
 {"id":19,"expanded":false,"name":"House1 2nd floor","order":18,"parentId":18,"scrollX":0,"scrollY":0},
 {"id":20,"expanded":false,"name":"Blacksmith","order":19,"parentId":13,"scrollX":720.8888888888889,"scrollY":406.22222222222223},
-{"id":21,"expanded":false,"name":"Children of the World","order":21,"parentId":0,"scrollX":2549.3333333333335,"scrollY":2096}
+{"id":21,"expanded":false,"name":"Children of the World","order":21,"parentId":0,"scrollX":2162.6666666666665,"scrollY":1197.3333333333333}
 ]
